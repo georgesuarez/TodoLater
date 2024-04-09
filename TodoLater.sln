@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoLater", "TodoLater\TodoLater.csproj", "{C6E14D3F-04FC-4C4C-834E-8BF7D249CCBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6E14D3F-04FC-4C4C-834E-8BF7D249CCBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E14D3F-04FC-4C4C-834E-8BF7D249CCBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E14D3F-04FC-4C4C-834E-8BF7D249CCBB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C6E14D3F-04FC-4C4C-834E-8BF7D249CCBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E14D3F-04FC-4C4C-834E-8BF7D249CCBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6E14D3F-04FC-4C4C-834E-8BF7D249CCBB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F798897-57D6-4E25-97E0-C2BA4EBEF247}
+	EndGlobalSection
+EndGlobal
